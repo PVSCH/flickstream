@@ -6,6 +6,22 @@ FlickStream is a React-based web application that allows users to browse, search
 
 Check out the live app here: (https://flickstreams.vercel.app/)
 
+## APIs
+
+This project uses **TMDb API** to fetch popular movie data like titles, posters, and descriptions.  
+Documentation: [TMDb Get Popular Movies](https://developer.themoviedb.org/reference/movie-popular-list)
+
+
+
+## Tech Stack
+
+- React.js  
+- JavaScript (ES6+)  
+- Context API for state management  
+- TMDb API for movie data  
+- Vercel for hosting  
+- VS Code for development  
+
 ## Features
 
 - Browse popular movies with posters and descriptions
@@ -13,12 +29,6 @@ Check out the live app here: (https://flickstreams.vercel.app/)
 - Add or remove movies from favorites
 - Responsive design for desktop and mobile
 - Reusable components for easy scalability
-
-## Tech Stack
-
-- React.js
-- CSS for styling
-- Context API for state management
 
 ## Installation
 
