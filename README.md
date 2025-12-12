@@ -4,7 +4,7 @@ FlickStream is a React-based web application that allows users to browse, search
 
 ## Live Demo
 
-Check out the live app here: (https://flickstreams.vercel.app/)
+Check out the live app here: (https://flickstream.vercel.app/)
 
 ## APIs
 
